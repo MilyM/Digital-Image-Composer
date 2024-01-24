@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/di_composer" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>

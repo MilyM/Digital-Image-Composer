@@ -1,0 +1,8 @@
+Sentinel-2;TrueColor;4;3;2
+Sentinel-2;ColorInfrared;8;4;3
+Sentinel-2;Geology;12;11;2
+Sentinel-2;Agriculture;11;8;2
+Sentinel-2;SWIR;12;8;4
+Sentinel-2;Bathimetric;12;8;4
+Landsat-8;TrueColor;4;3;2
+Landsat-8;ColorInfrared;5;4;3
